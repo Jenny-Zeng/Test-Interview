@@ -118,7 +118,9 @@ HTTP 1.0 中的默认连接方式即为短连接。
 3. delete：用于删除
 4. put：用于修改
 5.patch:部分更新
-[image01](../NetWork/Pic/image01.png)
+
+ ![alt text](<Pic/image01.png>)
+
 
 ## get和post
 1. GET 请求：
